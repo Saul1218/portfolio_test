@@ -11,7 +11,7 @@ export const translations = {
     
     // Hero Section
     profession: 'Analista de Datos',
-    heroDescription: 'Profesional organizado, adaptable y con pensamiento crítico, actualmente en formación en Ciencia de Datos y Ciberdefensa. Interesado en contribuir en una empresa tecnológica alineada con valores como el respeto, la honestidad y la mejora continua, en roles vinculados al análisis de datos y la ciberseguridad.',
+    heroDescription: 'Estudiante de Ciberdefensa y Ciencia de Datos. Con formación técnica en Computación . Me caracterizo por ser curioso, responsable y con gran motivación por seguir aprendiendo y aportando en proyectos de impacto.',
     
     // About Section
     professionalObjective: 'Objetivo Profesional',
@@ -34,7 +34,7 @@ export const translations = {
     languages: 'Idiomas',
     
     // Education Section
-    educationCertifications: 'Educación y Certificaciones',
+    educationCertifications: 'Educación ',
     education: 'Educación',
     coursesAndCertifications: 'Cursos y Certificaciones',
     
