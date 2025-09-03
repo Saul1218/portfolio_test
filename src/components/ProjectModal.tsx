@@ -86,21 +86,7 @@ const ProjectModal: React.FC<ProjectModalProps> = ({ project, onClose, themeClas
             </div>
           </div>
           
-          {/* Code Section */}
-          <div className="mb-8">
-            <h4 className={`text-lg font-semibold mb-4 transition-colors duration-300 ${themeClasses.primaryText}`}>
-              Código Fuente
-            </h4>
-            <div className={`rounded-2xl p-6 overflow-x-auto border transition-all duration-500 ${
-              themeClasses.isDarkMode ? 'bg-slate-900 border-slate-700' : 'bg-gray-50 border-gray-200'
-            }`}>
-              <pre className={`text-sm font-mono whitespace-pre-wrap leading-relaxed ${
-                themeClasses.isDarkMode ? 'text-green-400' : 'text-green-600'
-              }`}>
-                <code>{project.code}</code>
-              </pre>
-            </div>
-          </div>
+         
           
           {/* Technologies */}
           <div className={`border-l-4 border-blue-400 p-6 rounded-r-2xl border ${
