@@ -45,7 +45,7 @@ export const translations = {
     call: 'Llamar',
     
     // Footer
-    builtWith: 'Construido con React & Tailwind CSS.'
+    builtWith: 'Todos los derechos reservados.'
   },
   en: {
     // Navigation
