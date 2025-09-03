@@ -12,7 +12,7 @@ export const projectsData = [
     image: 'https://images.pexels.com/photos/1395967/pexels-photo-1395967.jpeg?auto=compress&cs=tinysrgb&w=800',
     technologies: ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL'],
     color: 'blue',
-    github: 'https://github.com/Saul1218/TSP-Travelling-Salesman-Problem',
+    github: 'https://github.com/Saul1218/Sistema-de-Gestion-de-Banquetes',
     demo: 'https://www.youtube.com/?gl=AR',
     code: `<?php
 // Sitio Web de Gestión de Banquetes
